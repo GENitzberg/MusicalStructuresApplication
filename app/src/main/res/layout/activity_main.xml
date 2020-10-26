@@ -20,17 +20,17 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="<<"
+            android:text="Rewind"
             android:id="@+id/rewind_button"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="||>"
+            android:text="Play/Pause"
             android:id="@+id/play_pause_button"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=">>"
+            android:text="Forward"
             android:id="@+id/forward_button"/>
 
     </LinearLayout>
