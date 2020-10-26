@@ -1,5 +1,5 @@
 # MusicalStructuresApplication
-Musical Structures App repo created on GitHub
+Musical Structures App repo for GENitzberg created on GitHub on 10/26/20
 
 Build Your Project
 Remember - For this project, you won't need to implement the actual music playing functionality.
